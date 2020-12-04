@@ -1,0 +1,28 @@
+.card-white {
+	background: white;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	margin: 20px 0 ;
+	text-align: center;
+	margin-top: 80px;
+}
+
+.list-inline {
+	list-style : none;
+	padding-left: 0px;
+}
+
+.list-inline li{
+	display: inline;
+	padding: 10px
+}
+
+.list-inline i{
+	font-size: 40px;
+	color: rgb(180,180,180)
+}
+
+.list-inline i:hover {
+	color: black
+}
